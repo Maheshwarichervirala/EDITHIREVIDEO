@@ -1,7 +1,11 @@
-@media (max-width: 768px) {
-  .stats-bar    { grid-template-columns: repeat(2,1fr) !important; }
-  .mission-grid { grid-template-columns: 1fr !important; }
-  .steps-grid   { grid-template-columns: 1fr 1fr !important; }
-  .values-grid  { grid-template-columns: 1fr !important; }
-  .cta-grid     { grid-template-columns: 1fr !important; }
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
