@@ -3,7 +3,7 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,,
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
   authDomain: "video-portfolio-3a45b.firebaseapp.com",
   projectId: "video-portfolio-3a45b",
   storageBucket: "video-portfolio-3a45b.firebasestorage.app",
