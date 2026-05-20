@@ -1,0 +1,7 @@
+@media (max-width: 768px) {
+  .stats-bar    { grid-template-columns: repeat(2,1fr) !important; }
+  .mission-grid { grid-template-columns: 1fr !important; }
+  .steps-grid   { grid-template-columns: 1fr 1fr !important; }
+  .values-grid  { grid-template-columns: 1fr !important; }
+  .cta-grid     { grid-template-columns: 1fr !important; }
+}
