@@ -1,16 +1,112 @@
-# React + Vite
+# EDIT HIRE VIDEO
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A professional video editing portfolio website developed using React and Vite. The application provides a clean and responsive interface for presenting video editing work and services in an organized and visually engaging manner.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://edithirevideo.vercel.app/
 
-## React Compiler
+## About the Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Edit Hire Video is a frontend web application designed to showcase video editing work through a modern portfolio interface. The project focuses on presenting editing projects effectively while providing users with a simple and responsive browsing experience.
 
-## Expanding the ESLint configuration
+The application is built with React for component-based user interface development and Vite for a fast development environment and optimized production builds.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+* Responsive portfolio interface
+* Video editing work showcase
+* Structured presentation of projects
+* Modern and clean user interface
+* Reusable React components
+* Responsive design for different screen sizes
+* Optimized frontend build using Vite
+* Production deployment through Vercel
+
+## Technologies Used
+
+* React.js
+* Vite
+* JavaScript
+* HTML5
+* CSS3
+* Vercel
+
+## Project Structure
+
+```text
+EDIT-HIRE-VIDEO/
+│
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+## Installation and Setup
+
+Clone the repository:
+
+```bash
+git clone <repository-url>
+cd EDIT-HIRE-VIDEO
+```
+
+Install the project dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Build the application for production:
+
+```bash
+npm run build
+```
+
+Preview the production build:
+
+```bash
+npm run preview
+```
+
+## Deployment
+
+The application is deployed using Vercel.
+
+Live application:
+
+https://edithirevideo.vercel.app/
+
+## Project Objective
+
+The primary objective of this project is to develop a professional online portfolio for showcasing video editing work while gaining practical experience in modern frontend development. The project demonstrates the use of React components, responsive web design, asset management, Vite-based development, and frontend deployment.
+
+## Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+* Developing component-based interfaces using React
+* Structuring and organizing a Vite project
+* Creating responsive web layouts
+* Managing frontend assets
+* Building optimized production applications
+* Deploying frontend applications using Vercel
+* Designing interfaces focused on visual content and portfolio presentation
+
+## Author
+
+Maheshwari Chervirala
